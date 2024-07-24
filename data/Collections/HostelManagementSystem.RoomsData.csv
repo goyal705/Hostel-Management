@@ -1,0 +1,2 @@
+_id,RoomNumber,Wing,Occupied,NoOfBeds,OccupiedBy1,OccupiedBy2,OccupiedOn1,OccupiedTill1,OccupiedOn2,OccupiedTill2,Complaints[0].Date,Complaints[0].By,Complaints[0].Description,Complaints[0].Status,Complaints[0].ClosedOn
+6693e46b0d4d6691fa8d2340,101,BH1,Yes,2,1,2,2024-07-01,2024-12-31,2024-07-01,2024-12-31,2024-07-12,1,Fan stopped,Fixed,2024-07-14

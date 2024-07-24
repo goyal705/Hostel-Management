@@ -1,0 +1,26 @@
+/* header.css */
+.header {
+  background-color: #282c34;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center;
+  color: white;
+  position: relative;
+  height: 40px;
+}
+
+.title {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 768px) {
+  .title {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

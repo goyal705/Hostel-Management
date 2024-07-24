@@ -1,0 +1,62 @@
+/* Sidebar.css */
+.sidebar {
+    width: 15%;
+    height: calc(100vh - 50px);
+    background-color: #a7d8db;
+    padding: 10px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    border: 1px solid black;
+}
+
+.amenities {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 40px;
+    background-color: #8d9cac;
+}
+
+.username {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    height: 20px;
+    /* background-color: #8d9cac; */
+}
+
+.button-sidebar {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #dafa68;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button-sidebar:hover {
+    background-color: #b3b3b3;
+}
+
+.button-dropdown {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #dafa68;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button-dropdown:hover {
+    background-color: #b3b3b3;
+}
